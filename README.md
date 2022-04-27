@@ -1,6 +1,6 @@
 # Script
 
-方法和数据抄了项目 https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning
+方法和数据借鉴项目 https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning
 
 涉及的论文 
 
